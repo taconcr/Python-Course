@@ -1,0 +1,5 @@
+ juan: 80.80
+ luis: 81.60
+ ana: 89.60
+ sofia: 81.00
+ julio: 83.40
